@@ -5,7 +5,7 @@
 # # # # # # # # # # # # # # # 
 # Special variables in bash #
 # # # # # # # # # # # # # # # 
-
+# Edited in WIN10 using NANO on UBUNTU
 # $0 Name of the bash script
 
 echo $0
